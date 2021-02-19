@@ -1,11 +1,11 @@
 module.exports = {
-  siteUrl: "https://vertvonline.es", // Site domain. Do not include a trailing slash!
+  siteUrl: "https://vertvonline.netlify.app", // Site domain. Do not include a trailing slash!
 
   postsPerPage: 10, // Number of posts shown on paginated pages (changes this requires sometimes to delete the cache)
 
-  siteTitleMeta: "Built with Draftbox", // This allows an alternative site title for meta data for pages.
+  siteTitleMeta: "VerTvOnline", // This allows an alternative site title for meta data for pages.
   siteDescriptionMeta:
-    "Lightning fast, secure front-end for your WordPress or Ghost blog, without coding", // This allows an alternative site description for meta data for pages.
+    "Canales de Tv online a través de internet de todos los paises y gratis!. Podrás ver Futbol online y todo tipo de deportes.", // This allows an alternative site description for meta data for pages.
 
   shareImageWidth: 600, // Change to the width of your default share image
   shareImageHeight: 300, // Change to the height of your default share image
@@ -14,7 +14,7 @@ module.exports = {
   siteIcon: "favicon.png", // Logo in /static dir used for SEO, RSS, and App manifest
   backgroundColor: "#e9e9e9", // Used for Offline Manifest
   themeColor: "#15171A", // Used for Offline Manifest
-  apiUrl: "https://wordpress.theasdfghjkl.com",
+  apiUrl: "https://vertvonline.es",
   subscribeWidget: {
     visible: false,
     title: "Subscribe to Draftbox",
