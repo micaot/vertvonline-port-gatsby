@@ -1,5 +1,5 @@
 {
-  "baseUrl": "vertvonline.es",
+  "baseUrl": "wp.vertvonline.es",
   "protocol": "https",
   "hostingWPCOM": false,
   "useACF": true,
