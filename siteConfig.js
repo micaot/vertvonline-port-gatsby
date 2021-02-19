@@ -1,5 +1,5 @@
 module.exports = {
-  siteUrl: "https://wp-balsa-preview.draftbox.co", // Site domain. Do not include a trailing slash!
+  siteUrl: "https://vertvonline.es", // Site domain. Do not include a trailing slash!
 
   postsPerPage: 10, // Number of posts shown on paginated pages (changes this requires sometimes to delete the cache)
 
@@ -24,20 +24,20 @@ module.exports = {
   header: {
     navigation: [
       {
-        label: "Home",
+        label: "Inicio",
         url: "https://wp-balsa-preview.draftbox.co/",
       },
       {
-        label: "Contact",
+        label: "Contacto",
         url: "https://wp-balsa-preview.draftbox.co/contact",
       },
     ],
   },
   footer: {
-    copyright: "Built with Draftbox",
+    copyright: "VerTvOnline.es",
     navigation: [
       {
-        label: "Home",
+        label: "Inicio",
         url: "https://wp-balsa-preview.draftbox.co/",
       },
       {
@@ -49,12 +49,12 @@ module.exports = {
         url: "https://wp-balsa-preview.draftbox.co/rss.xml",
       },
       {
-        label: "Contact",
+        label: "Contacto",
         url: "https://wp-balsa-preview.draftbox.co/contact",
       },
       {
-        label: "External Link",
-        url: "https://spectrum.chat/gatsby-js/themes?tab=posts",
+        label: "Diseño Web",
+        url: "https://micaot.com",
       },
     ],
   },
