@@ -7,8 +7,8 @@ module.exports = {
   siteDescriptionMeta:
     "Lightning fast, secure front-end for your WordPress or Ghost blog, without coding", // This allows an alternative site description for meta data for pages.
 
-  shareImageWidth: 1000, // Change to the width of your default share image
-  shareImageHeight: 523, // Change to the height of your default share image
+  shareImageWidth: 600, // Change to the width of your default share image
+  shareImageHeight: 300, // Change to the height of your default share image
 
   shortTitle: "Built with Draftbox", // Used for App manifest e.g. Mobile Home Screen
   siteIcon: "favicon.png", // Logo in /static dir used for SEO, RSS, and App manifest
@@ -16,7 +16,7 @@ module.exports = {
   themeColor: "#15171A", // Used for Offline Manifest
   apiUrl: "https://wordpress.theasdfghjkl.com",
   subscribeWidget: {
-    visible: true,
+    visible: false,
     title: "Subscribe to Draftbox",
     helpText: "Get the latest posts delivered right to your inbox.",
     successMessage: "Thanks for subscribing to Draftbox.",
@@ -25,11 +25,11 @@ module.exports = {
     navigation: [
       {
         label: "Inicio",
-        url: "https://wp-balsa-preview.draftbox.co/",
+        url: "/",
       },
       {
         label: "Contacto",
-        url: "https://wp-balsa-preview.draftbox.co/contact",
+        url: "/contact",
       },
     ],
   },
@@ -38,19 +38,19 @@ module.exports = {
     navigation: [
       {
         label: "Inicio",
-        url: "https://wp-balsa-preview.draftbox.co/",
+        url: "/",
       },
       {
         label: "Sitemap",
-        url: "https://wp-balsa-preview.draftbox.co/sitemap.xml",
+        url: "/sitemap.xml",
       },
       {
         label: "RSS",
-        url: "https://wp-balsa-preview.draftbox.co/rss.xml",
+        url: "/rss.xml",
       },
       {
         label: "Contacto",
-        url: "https://wp-balsa-preview.draftbox.co/contact",
+        url: "/contact",
       },
       {
         label: "Diseño Web",
@@ -76,27 +76,27 @@ module.exports = {
     successMessage: "We’ll get in touch with you soon.",
   },
   metadata: {
-    title: "Built with Draftbox",
+    title: "VerTvOnline",
     description:
-      "Lightning fast, secure front-end for your WordPress or Ghost blog, without coding. Draftbox is a new-age blogging platform for everyone, built on Gatsby.",
+      "Canales de Tv online a través de internet gratis de todos los paises",
   },
   twitterCard: {
-    title: "Built with Draftbox",
+    title: "VerTvOnline",
     description:
-      "Lightning fast, secure front-end for your WordPress or Ghost blog, without coding. Draftbox is a new-age blogging platform for everyone, built on Gatsby.",
+      "Canales de Tv online a través de internet gratis de todos los paises.",
     imageUrl: "twitterImage.png",
-    username: "@DraftboxHQ",
+    username: "@vertvonline",
   },
   facebookCard: {
-    title: "Built with Draftbox",
+    title: "VerTvOnline",
     description:
-      "Lightning fast, secure front-end for your WordPress or Ghost blog, without coding. Draftbox is a new-age blogging platform for everyone, built on Gatsby.",
+      "Canales de Tv online a través de internet gratis de todos los paises.",
     imageUrl: "facebookImage.png",
     appId: "2391725224459953",
   },
-  siteTitle: "Built with Draftbox",
+  siteTitle: "VerTvOnline",
   siteDescription:
-    "Lightning fast, secure front-end for your WordPress or Ghost blog, without coding.",
+    "Canales de Tv online a través de internet gratis de todos los paises.",
   language: "en",
   logoUrl: "logo.png",
   iconUrl: "favicon.png",
