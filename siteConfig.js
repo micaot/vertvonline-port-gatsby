@@ -1,7 +1,7 @@
 module.exports = {
-  siteUrl: "https://vertvonline.netlify.app", // Site domain. Do not include a trailing slash!
+  siteUrl: "https://vertvonline.es", // Site domain. Do not include a trailing slash!
 
-  postsPerPage: 10, // Number of posts shown on paginated pages (changes this requires sometimes to delete the cache)
+  postsPerPage: 50, // Number of posts shown on paginated pages (changes this requires sometimes to delete the cache)
 
   siteTitleMeta: "VerTvOnline", // This allows an alternative site title for meta data for pages.
   siteDescriptionMeta:
