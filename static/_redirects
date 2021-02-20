@@ -1,0 +1,7 @@
+[redirects]]
+  from = "/category"
+  to = "/tag"
+  status = 301
+  force = true
+  query = {path = ":path"}
+  
