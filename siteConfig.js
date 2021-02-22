@@ -10,7 +10,7 @@ module.exports = {
   shareImageWidth: 600, // Change to the width of your default share image
   shareImageHeight: 300, // Change to the height of your default share image
 
-  shortTitle: "Built with Draftbox", // Used for App manifest e.g. Mobile Home Screen
+  shortTitle: "VerTvOnline", // Used for App manifest e.g. Mobile Home Screen
   siteIcon: "favicon.png", // Logo in /static dir used for SEO, RSS, and App manifest
   backgroundColor: "#e9e9e9", // Used for Offline Manifest
   themeColor: "#15171A", // Used for Offline Manifest
@@ -28,8 +28,8 @@ module.exports = {
         url: "/",
       },
       {
-        label: "Contacto",
-        url: "/contact",
+        label: "Categorias",
+        url: "/tags",
       },
     ],
   },
@@ -49,8 +49,8 @@ module.exports = {
         url: "/rss.xml",
       },
       {
-        label: "Contacto",
-        url: "/contact",
+        label: "Categorias",
+        url: "/tags",
       },
       {
         label: "Diseño Web",
@@ -97,7 +97,7 @@ module.exports = {
   siteTitle: "VerTvOnline",
   siteDescription:
     "Canales de Tv online a través de internet gratis de todos los paises.",
-  language: "en",
+  language: "es",
   logoUrl: "logo.png",
   iconUrl: "favicon.png",
   coverUrl: "cover.jpg",
